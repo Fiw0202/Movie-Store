@@ -1,4 +1,5 @@
 import './Content.css'
+import Search from "../../../public/iCon/search.svg"
 
 function Content(){
 
@@ -7,7 +8,7 @@ function Content(){
                 <form className='searchBar'>
                     <input input type='text' placeholder='Search movie'/>
                     <button>
-                        <img src='../../../public/iCon/search.svg'/>
+                        <img src={Search} alt='Search'/>
                         </button>
             </form>
             </div>

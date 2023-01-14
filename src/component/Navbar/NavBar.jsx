@@ -1,11 +1,11 @@
 import './NavBar.css'
-import SearchIcon from "../../../public/iCon/search.svg"
+import BasketIcon from "../../../public/iCon/basket.svg"
 
 function Navbar(){
     return(
 <div className='navbar'>
 <h1>Movie Store</h1>
-<button ><img src={SearchIcon} alt='Search'/></button>
+<button ><img src={BasketIcon} alt='Basket'/></button>
 </div>
     )
 }
