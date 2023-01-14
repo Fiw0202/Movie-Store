@@ -1,0 +1,25 @@
+.content{
+    background-color:  rgb(75, 6, 139);
+    height: 100vh;
+}
+.searchBar{
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+.searchBar input{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 800px;
+    outline: none;
+}
+.searchBar button{
+    color: white;
+    border-radius: 50%;
+   background-color: rgba(0,0,0, 0.5);
+    margin-left: 12px;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+}
