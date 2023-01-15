@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import NavBar from "../Navbar/NavBar";
 import Content from "../Content/Content";
+import  Movie from "../Card/Card";
 
 function App() {
 
@@ -9,6 +10,8 @@ function App() {
     <div className="App">
       <NavBar />
       <Content/>
+      <footer/>
+
     </div>
   );
 }

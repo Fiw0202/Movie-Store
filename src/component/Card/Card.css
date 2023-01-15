@@ -1,0 +1,16 @@
+.card{
+    height: 430px;
+    width: 300px;
+    text-align: center;
+}
+.card img{
+    height: 380px;
+    width: auto;
+}
+.movie-details{
+    padding: 5px;
+    color: white;
+}
+.box h4{
+    word-wrap: break-word;
+}
