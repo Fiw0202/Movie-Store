@@ -13,7 +13,7 @@ How to install :
 5. Type "npm start" for run project
 
 
-How to Use To-Do List :
+How to Use Movie Store :
 
 You see only popular movie other feature is developing.
 **********************
